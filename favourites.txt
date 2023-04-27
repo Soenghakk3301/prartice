@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 rice
 beef
 sea food
+=======
+japan 
+khmer 
+china
+>>>>>>> movies
